@@ -1,2 +1,2 @@
 # electron-ssh-config
-Electron powered SSH Gui
+Electron powered SSH Config Gui
